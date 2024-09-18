@@ -1,0 +1,7 @@
+'vagrant up' should install everything (mongodb, neo4j, solr) already for you
+as well as cloning the OLS Github repository and running a first maven build.
+
+mongodb, neo4j, tomcat7 - already running
+jetty (for solr) - may need starting
+
+You will need to then load everything
